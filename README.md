@@ -8,7 +8,7 @@ This repository contains the test cases used to prepare that article. It contain
 
 | Test Case | Model Size            | blockMesh         |
 |:--        |:--                    |:--                |
-| x1 (STD)  | ~185K Cells           | 25 - 50 - 10      |
+| x1 (STD)  | ~185K Cells           | 25 - 20 - 10      |
 | x2        | ~1.1 Million Cells    | 50 - 40 - 20      |
 | x3        | ~3.3 Million Cells    | 75 - 60 -30       |
 | x4        | ~7.0 Million Cells    | 100 - 80 - 40     |
